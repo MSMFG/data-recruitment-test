@@ -8,7 +8,7 @@ To prepare for this, you have 2 options, pick which ever option you are most com
 
 ### Option 1. Prepare only
 - Read and understand the [Problem Statement](#problem-statement)
-- Set up your favourite IDE with the [sample code](./python).
+- Set up your favourite IDE with the [sample code](./file_splitter/__main__.py).
 - Make sure you know how the code works and you know how to run it with different arguments
 - Think about how you plan on implementing a solution to the problem
 
