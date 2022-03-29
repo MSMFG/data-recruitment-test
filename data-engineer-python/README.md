@@ -52,8 +52,7 @@ At MSMG we value code that is functional, simple to read and review, and demonst
 You should complete this assignment in Python. 
 A sample project with the arguments parsed is provided. 
 If you would like to parse the arguments differently this is fine.
-
-Think about the libraries and frameworks you intend to use. Are they suitable for the scale of this problem?
+Please dont use heavy-weight data processing frameworks (spark / beam / pandas), where this could be done in a few lines, we'd like you to show off your python skills.
 
 We judge based on the following things:
 * Code readability
